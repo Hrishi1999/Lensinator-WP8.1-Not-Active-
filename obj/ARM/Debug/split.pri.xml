@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="26SerenApps.Lensinator" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://26SerenApps.Lensinator/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bcs.xbf" uri="ms-resource://26SerenApps.Lensinator/Files/bcs.xbf">
+				<Candidate type="Path">
+					<Value>bcs.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="bif.xbf" uri="ms-resource://26SerenApps.Lensinator/Files/bif.xbf">
+				<Candidate type="Path">
+					<Value>bif.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="cr.xbf" uri="ms-resource://26SerenApps.Lensinator/Files/cr.xbf">
+				<Candidate type="Path">
+					<Value>cr.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="feedback.xbf" uri="ms-resource://26SerenApps.Lensinator/Files/feedback.xbf">
+				<Candidate type="Path">
+					<Value>feedback.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="help1.xbf" uri="ms-resource://26SerenApps.Lensinator/Files/help1.xbf">
+				<Candidate type="Path">
+					<Value>help1.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="imgc.xbf" uri="ms-resource://26SerenApps.Lensinator/Files/imgc.xbf">
+				<Candidate type="Path">
+					<Value>imgc.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Lensinator.xr.xml" uri="ms-resource://26SerenApps.Lensinator/Files/Lensinator.xr.xml">
+				<Candidate type="Path">
+					<Value>Lensinator.xr.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://26SerenApps.Lensinator/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="nots.xbf" uri="ms-resource://26SerenApps.Lensinator/Files/nots.xbf">
+				<Candidate type="Path">
+					<Value>nots.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="Package.StoreAssociation.xml" uri="ms-resource://26SerenApps.Lensinator/Files/Package.StoreAssociation.xml">
+				<Candidate type="Path">
+					<Value>Package.StoreAssociation.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="StoreManifest.xml" uri="ms-resource://26SerenApps.Lensinator/Files/StoreManifest.xml">
+				<Candidate type="Path">
+					<Value>StoreManifest.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="bsc.png" uri="ms-resource://26SerenApps.Lensinator/Files/Assets/bsc.png">
+					<Candidate type="Path">
+						<Value>Assets\bsc.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="card.png" uri="ms-resource://26SerenApps.Lensinator/Files/Assets/card.png">
+					<Candidate type="Path">
+						<Value>Assets\card.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Logo.png" uri="ms-resource://26SerenApps.Lensinator/Files/Assets/Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://26SerenApps.Lensinator/Files/Assets/SmallLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SmallLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://26SerenApps.Lensinator/Files/Assets/SplashScreen.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\SplashScreen.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://26SerenApps.Lensinator/Files/Assets/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="src.png" uri="ms-resource://26SerenApps.Lensinator/Files/Assets/src.png">
+					<Candidate type="Path">
+						<Value>Assets\src.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://26SerenApps.Lensinator/Files/Assets/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="WideLogo.png" uri="ms-resource://26SerenApps.Lensinator/Files/Assets/WideLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>Assets\WideLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="OcrResources">
+				<NamedResource name="about.xbf" uri="ms-resource://26SerenApps.Lensinator/Files/OcrResources/about.xbf">
+					<Candidate type="Path">
+						<Value>OcrResources\about.xbf</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="MsOcrRes.orp" uri="ms-resource://26SerenApps.Lensinator/Files/OcrResources/MsOcrRes.orp">
+					<Candidate type="Path">
+						<Value>OcrResources\MsOcrRes.orp</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

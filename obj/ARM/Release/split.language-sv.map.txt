@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-sv"
+"ResourceDimensions"		"language-sv-se"
+
+[Files]
+"C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Release\split.language-sv.pri"			"resources.pri"

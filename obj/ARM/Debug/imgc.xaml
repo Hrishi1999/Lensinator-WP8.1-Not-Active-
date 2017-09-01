@@ -1,0 +1,86 @@
+﻿<Page
+    x:Class="Lensinator.imgc"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lensinator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="56*"/>
+            <ColumnDefinition Width="143*"/>
+            <ColumnDefinition Width="78*"/>
+            <ColumnDefinition Width="123*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="234*"/>
+            <RowDefinition Height="52*"/>
+            <RowDefinition Height="154*"/>
+            <RowDefinition Height="80*"/>
+            <RowDefinition Height="49*"/>
+            <RowDefinition Height="72*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Height="29" Margin="0,-30,0,0" VerticalAlignment="Top" Background="#FF00796B" Grid.ColumnSpan="4"/>
+        <Grid Background="#009688" Margin="0,-2,0,0" Height="66" VerticalAlignment="Top" Grid.ColumnSpan="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="271*"/>
+                <ColumnDefinition Width="22*"/>
+                <ColumnDefinition Width="108*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="textBlock" Margin="12,12,52,14" TextWrapping="Wrap" Text="Image Scanner" FontSize="33.333" FontFamily="DengXian" Grid.ColumnSpan="3"/>
+            <TextBlock x:Name="date" Margin="153,109,4,-68" TextWrapping="Wrap" Text="--/--/--" VerticalAlignment="Top" FontSize="20" FontFamily="DengXian" Grid.ColumnSpan="3" Foreground="#FF00796B"/>
+            <TextBlock x:Name="reso" Margin="153,141,4,-100" TextWrapping="Wrap" Text="----x----" VerticalAlignment="Top" FontSize="20" FontFamily="DengXian" Grid.ColumnSpan="3" Foreground="#FF00796B"/>
+
+        </Grid>
+        <TextBlock x:Name="textBlock_Copy1" Margin="7,74,13,0" TextWrapping="Wrap" Text="Choose an image to extract text from it." VerticalAlignment="Top" FontSize="17.333" FontFamily="DengXian" Foreground="#FF00796B" Height="23" Grid.ColumnSpan="4"/>
+        <Button x:ConnectionId='1' x:Name="button1" Content="Speak" Grid.Column="3" HorizontalAlignment="Stretch" Margin="1.5,173,12,2.333" VerticalAlignment="Stretch" Background="#FF009688"                       Height="56"/>
+        <MediaElement x:Name="md1" Grid.Column="3" HorizontalAlignment="Left" Height="60" Margin="0.5,81.667,0,-70" VerticalAlignment="Top" Width="70" Grid.Row="5"/>
+        <Button x:ConnectionId='2' x:Name="bt2" Content="Share" HorizontalAlignment="Stretch" Margin="10,0,13,64" VerticalAlignment="Bottom" Background="#FF009688"                        Grid.Row="3" Grid.ColumnSpan="4" Grid.RowSpan="3" Height="59"/>
+        <Image x:ConnectionId='3' x:Name="gg" Height="128" Margin="11,103,0,0" VerticalAlignment="Top" Source="Assets/src.png" Grid.ColumnSpan="2"                     HorizontalAlignment="Left" Width="128"/>
+        <TextBox x:Name="ext" Margin="11,4.667,12,10" TextWrapping="Wrap" VerticalAlignment="Stretch" Background="White" Grid.ColumnSpan="4" BorderBrush="#FF00796B" PlaceholderText="Result" Grid.Row="1" Grid.RowSpan="3"/>
+        <StackPanel Background="#FF009688" Grid.Row="5" Height="68" VerticalAlignment="Bottom" Grid.ColumnSpan="4">
+            <Viewbox Width="48" Height="48" Margin="176,5">
+                <Grid x:ConnectionId='7' xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="Layer_1" Width="58" Height="46" Background="#FF3F51B5"              >
+                    <Grid.RenderTransform>
+                        <TranslateTransform X="0" Y="0"/>
+                    </Grid.RenderTransform>
+                    <Grid.Resources/>
+                    <!--Unknown tag: metadata-->
+                    <!--Unknown tag: sodipodi:namedview-->
+                    <Canvas x:ConnectionId='8' Name="g3"                    Background="#FF009688">
+                        <Path xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Name="path5" Stroke="White" StrokeMiterLimit="10" Data="M63.35 31.995c0 17.319-14.036 31.354-31.354 31.354   C14.683 63.35 0.65 49.314 0.65 31.995C0.65 14.684 14.683 0.65 31.996 0.65C49.313 0.65 63.35 14.684 63.35 31.995z" StrokeThickness="2"/>
+                        <Polygon xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" Points="26.084,42.227 20.18,31.995 26.084,21.762 37.899,21.762    43.816,31.995 37.899,42.227  " Name="polygon7" FillRule="NonZero" Stroke="White" StrokeMiterLimit="10" StrokeThickness="2"/>
+                        <Line xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" X1="37.899" Y1="21.762" X2="25.615" Y2="1.298" Name="line9" Stroke="White" StrokeMiterLimit="10" StrokeThickness="2"/>
+                        <Line xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" X1="43.816" Y1="31.995" X2="56.093" Y2="11.938" Name="line11" Stroke="White" StrokeMiterLimit="10" StrokeThickness="2"/>
+                        <Line xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" X1="37.899" Y1="42.227" X2="61.636" Y2="42.227" Name="line13" Stroke="White" StrokeMiterLimit="10" StrokeThickness="2"/>
+                        <Line xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" X1="26.084" Y1="42.227" X2="37.899" Y2="62.791" Name="line15" Stroke="White" StrokeMiterLimit="10" StrokeThickness="2"/>
+                        <Line xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" X1="20.18" Y1="31.995" X2="7.857" Y2="51.992" Name="line17" Stroke="White" StrokeMiterLimit="10" StrokeThickness="2"/>
+                        <Line xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" X1="26.084" Y1="21.762" X2="2.506" Y2="21.762" Name="line19" Stroke="White" StrokeMiterLimit="10" StrokeThickness="2"/>
+                    </Canvas>
+                </Grid>
+            </Viewbox>
+        </StackPanel>
+        <Image x:ConnectionId='4' x:Name="img" Height="21" Margin="275.5,102,-157,0" VerticalAlignment="Top" Source="Assets/src.png"                     HorizontalAlignment="Left" Width="4" Grid.Column="3"/>
+        <Grid Name="img256" Margin="0,64,0,68" Grid.ColumnSpan="4" Background="Black" Opacity="0.8" Grid.RowSpan="6" Visibility="Collapsed">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="273*"/>
+                <ColumnDefinition Width="128*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="62*"/>
+                <RowDefinition Height="358*"/>
+                <RowDefinition Height="83*"/>
+            </Grid.RowDefinitions>
+            <Image x:Name="imgx" Margin="10,10.611,10,9.611" Source="Assets/src.png" Grid.Row="1" Grid.ColumnSpan="2"/>
+            <CheckBox x:ConnectionId='5' x:Name="olay" Content="Show text on Image." HorizontalAlignment="Stretch" Margin="8,9.389,12,8" VerticalAlignment="Stretch"                        RenderTransformOrigin="0.5,0.5" Grid.Row="2" Background="White" Foreground="White" Grid.ColumnSpan="2"/>
+            <Grid x:Name="TextOverlay" AutomationProperties.Name="Preview of the image" Grid.ColumnSpan="2" Margin="10,10.611,12,9.944" Grid.Row="1" Visibility="Collapsed" />
+            <Button x:ConnectionId='6' x:Name="button" Content="Close" HorizontalAlignment="Stretch" Margin="11.5,-2,7,5.389" VerticalAlignment="Stretch" Width="3"                      Grid.Column="1"/>
+        </Grid>
+
+    </Grid>
+</Page>
+

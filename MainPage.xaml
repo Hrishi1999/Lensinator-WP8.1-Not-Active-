@@ -1,0 +1,70 @@
+﻿<Page
+    x:Class="Lensinator.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lensinator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Page.BottomAppBar>
+        <CommandBar Background="#1E88E5">
+            <AppBarButton Label="Feed Back" Icon="Send" Click="AppBarButton_Click"/>
+
+            <AppBarButton Label="About" Click="AppBarButton4_Click">
+                <AppBarButton.Icon>
+                    <FontIcon Glyph="i" FontSize="15" FontFamily="Mangal"/>
+                </AppBarButton.Icon>
+            </AppBarButton>
+
+            <AppBarButton Label="Help" Icon="Help" Click="AppBarButton3_Click"/>
+        </CommandBar>
+    </Page.BottomAppBar>
+    <Page.Background>
+        <SolidColorBrush Color="#1565C0"/>
+    </Page.Background>
+
+    <Grid Background="White">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="99*"/>
+            <ColumnDefinition Width="101*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="63*"/>
+            <RowDefinition Height="530*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid Background="#FF1E88E5" Grid.RowSpan="2" Height="69" VerticalAlignment="Top" Grid.ColumnSpan="2" Tapped="Grid_Tapped">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="271*"/>
+                <ColumnDefinition Width="129*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="textBlock" Margin="13,13,51,0" TextWrapping="Wrap" Text="Lensinator" VerticalAlignment="Top" FontSize="33.333" FontFamily="DengXian" Grid.ColumnSpan="2"/>
+
+
+        </Grid>
+        <Grid
+          
+                    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" Name="svg3336" Margin="156.667,22,13,18" Grid.Column="1" Tapped="svg3336_Tapped">
+            <Line Stroke="White" Fill="White" X2="32" Y1="1" Y2="1" StrokeThickness="2" Margin="0" VerticalAlignment="Top"/>
+            <Line Stroke="White" Fill="White" X2="32" Y1="1" Y2="1" StrokeThickness="2" Margin="0" VerticalAlignment="Center"/>
+            <Line Stroke="White" Fill="White" X2="32" Y1="1" Y2="1" StrokeThickness="2" Margin="0" VerticalAlignment="Bottom"/>
+        </Grid>
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" />
+        <StackPanel  Grid.Row="1" Grid.ColumnSpan="2"/>
+        <ScrollViewer Grid.ColumnSpan="2" Margin="10,34.333,10,5" Grid.Row="1" VerticalScrollMode="Enabled">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="188*"/>
+                    <ColumnDefinition Width="193*"/>
+                </Grid.ColumnDefinitions>
+                <Button x:Name="button" Content="Card Scanner" HorizontalAlignment="Stretch" Height="131" Margin="5.5,209,0,0" VerticalAlignment="Top" BorderBrush="#FF1E88E5" Foreground="White" Background="#FF1E88E5" Click="button_Click" FontSize="20" Grid.Column="1"/>
+                <Button x:Name="button_Copy" Content="Image Scanner" HorizontalAlignment="Stretch" Height="132" Margin="0,209,3.5,0" VerticalAlignment="Top" BorderBrush="#FF1E88E5" Foreground="White" Background="#FF1E88E5" Click="button_Copy_Click" FontSize="20"/>
+                <TextBlock x:Name="textBlock_Copy" Margin="0,0,44,0" TextWrapping="Wrap" Text="Hi," VerticalAlignment="Top" FontSize="46.667" FontFamily="DengXian" Foreground="#FF1E88E5" Grid.ColumnSpan="2"/>
+                <TextBlock x:Name="textBlock_Copy1" Margin="0,64,0,0" TextWrapping="Wrap" Text="Welcome to Lensinator. Please select any one from below to get started." VerticalAlignment="Top" FontSize="30.667" FontFamily="DengXian" Foreground="#FF1E88E5" Height="139" Grid.ColumnSpan="2"/>
+                <Button x:Name="button_Copy2" Content="Bar Code / Qr Code Scanner Scanner" HorizontalAlignment="Stretch" Margin="0,332,2,0" VerticalAlignment="Top" BorderBrush="#FF1E88E5" Foreground="White" Background="#FF1E88E5" Click="button_Copy2_Click" FontSize="20" Grid.ColumnSpan="2" Height="100"/>
+            </Grid>
+        </ScrollViewer>
+        <TextBlock x:Name="textBlock1" Grid.Column="1" Margin="169.667,496.333,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Beta" VerticalAlignment="Top" Foreground="#FF1E88E5" Height="17"/>
+    </Grid>
+
+</Page>

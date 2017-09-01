@@ -1,0 +1,16 @@
+<XamlCompilerSaveState>
+  <ReferenceAssemblyList>
+    <LocalAssembly PathName="d:\final\projects\new folder\final\lensinator\lensinator\obj\arm\lensinator\intermediatexaml\lensinator.exe" HashGuid="fb7445ab-96e5-55c5-a87f-8f143a0d099a" />
+    <ReferenceAssembly PathName="c:\program files (x86)\microsoft sdks\windowsphoneapp\v8.1\extensionsdks\microsoft.vclibs\12.0\references\commonconfiguration\neutral\platform.winmd" HashGuid="58b6b6d1-928e-9908-9804-eb460e5e101b" />
+    <ReferenceAssembly PathName="d:\final\projects\new folder\final\lensinator\packages\lumiaimagingsdk.2.0.208\lib\wpa81-hidden\arm\lumia.imaging.managed.dll" HashGuid="4995ac95-997b-6a34-dd96-7fb05ef15210" />
+    <ReferenceAssembly PathName="d:\final\projects\new folder\final\lensinator\packages\lumiaimagingsdk.2.0.208\lib\wpa81\arm\lumia.imaging.winmd" HashGuid="d16e02ff-554c-0883-c15e-9c1ee6c065c5" />
+    <ReferenceAssembly PathName="d:\final\projects\new folder\final\lensinator\packages\lumiaimagingsdk.2.0.208\lib\wpa81\arm\lumia.interopservices.windowsruntime.winmd" HashGuid="be026b97-4e17-03e1-494d-e8a25f3c2582" />
+    <ReferenceAssembly PathName="d:\final\projects\new folder\final\lensinator\packages\win2d.0.0.16\bin\phone\arm\microsoft.graphics.canvas.numerics.dll" HashGuid="53b04cc0-cebe-de82-c242-0343c2ddb74f" />
+    <ReferenceAssembly PathName="d:\final\projects\new folder\final\lensinator\packages\win2d.0.0.16\bin\phone\arm\microsoft.graphics.canvas.winmd" HashGuid="8cd9b723-275f-8932-acda-dc1d490b723e" />
+    <ReferenceAssembly PathName="d:\final\projects\new folder\final\lensinator\packages\newtonsoft.json.7.0.1\lib\portable-net40+sl5+wp80+win8+wpa81\newtonsoft.json.dll" HashGuid="0b4cdfc1-2257-2e75-23cf-4052e97b309e" />
+    <ReferenceAssembly PathName="d:\final\projects\new folder\final\lensinator\packages\mmaitre.videoeffects.2.3.1\lib\portable-netcore451+wpa81\videoeffectextensions.dll" HashGuid="9877d2f6-2d07-570b-b509-0d9d6a178464" />
+    <ReferenceAssembly PathName="d:\final\projects\new folder\final\lensinator\packages\mmaitre.videoeffects.2.3.1\build\native\windowsphone\arm\videoeffects.winmd" HashGuid="87722979-a09e-3c79-f352-47bbee48a4d7" />
+    <ReferenceAssembly PathName="d:\final\projects\new folder\final\lensinator\packages\microsoft.windows.ocr.1.0.0\lib\wpa81\arm\windowspreview.media.ocr.winmd" HashGuid="a5310a53-1cc2-dceb-da35-610421ecb7df" />
+    <ReferenceAssembly PathName="d:\final\projects\new folder\final\lensinator\packages\zxing.net.0.14.0.1\lib\wpa81\zxing.winmd" HashGuid="a78fc7f8-dd46-b4f1-5011-27b2896bf3e2" />
+  </ReferenceAssemblyList>
+</XamlCompilerSaveState>

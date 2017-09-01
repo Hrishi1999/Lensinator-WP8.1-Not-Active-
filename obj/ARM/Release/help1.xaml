@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="Lensinator.help1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Lensinator"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White">
+        <Grid Height="29" Margin="0,-30,0,0" VerticalAlignment="Top" Background="#FF689F38"/>
+        <Grid Background="#FF7CB342" Margin="0,-2,0,0" Height="66" VerticalAlignment="Top">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="271*"/>
+                <ColumnDefinition Width="22*"/>
+                <ColumnDefinition Width="108*"/>
+            </Grid.ColumnDefinitions>
+            <TextBlock x:Name="textBlock" Margin="12,12,52,14" TextWrapping="Wrap" Text="Help" FontSize="33.333" FontFamily="DengXian" Grid.ColumnSpan="3"/>
+            <TextBlock x:Name="textBlock_Copy5" Margin="12,84,8,-71" TextWrapping="Wrap" Text="You can contact us at :" FontSize="30.667" FontFamily="DengXian" Foreground="#FF7CB342" Grid.ColumnSpan="3"/>
+            <TextBlock x:Name="textBlock_Copy7" Margin="18.333,615,8,-571" TextWrapping="Wrap" Text="SerenApps" FontSize="16" FontFamily="DengXian" Foreground="#FF7CB342" Grid.Column="2"/>
+            <TextBlock x:Name="textBlock_Copy" Margin="12,142,8,-113" TextWrapping="Wrap" Text="Email : " FontSize="30.667" FontFamily="DengXian" Foreground="#FF7CB342" Grid.ColumnSpan="3"/>
+            <TextBlock x:Name="textBlock_Copy1" Margin="12,188,8,-159" TextWrapping="Wrap" Text="hrishipatel_55@outlook.com" FontSize="26.667" FontFamily="DengXian" Foreground="#FF7CB342" Grid.ColumnSpan="3"/>
+
+
+        </Grid>
+
+    </Grid>
+</Page>
+

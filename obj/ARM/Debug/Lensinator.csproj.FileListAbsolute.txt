@@ -1,0 +1,286 @@
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\OcrResources\MsOcrRes.orp
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\App.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\bcs.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\cr.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\imgc.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\MainPage.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\nots.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.xr.xml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.exe
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.pdb
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\resources.pri
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.build.appxrecipe
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\WindowsPreview.Media.Ocr.winmd
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.winmd
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\WindowsPreview.Media.Ocr.dll
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\WindowsPreview.Media.Ocr.xml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.pdb
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.xml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.pri
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.csprojResolveAssemblyReference.cache
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\App.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\App.g.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.g.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.g.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.g.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.g.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\App.xaml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.xaml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.xaml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.xaml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.xaml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.xaml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\App.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.exe
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.pdb
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.csproj.GenerateResource.Cache
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\priconfig.xml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\layout.resfiles
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\resources.resfiles
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\pri.resfiles
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\qualifiers.txt
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\bin\ARM\Debug\feedback.xbf
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.g.cs
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.xaml
+C:\Users\Hrishi\Desktop\Projects\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\OcrResources\MsOcrRes.orp
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\App.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\bcs.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\cr.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\feedback.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\imgc.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\MainPage.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\nots.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.xr.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.exe
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.pdb
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\resources.pri
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\AppxManifest.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.build.appxrecipe
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Advertising.Mobile.Common.winmd
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Advertising.Mobile.Common.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Advertising.Mobile.Display.winmd
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Advertising.Mobile.Display.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Advertising.Mobile.UI.winmd
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Advertising.Mobile.UI.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.winmd
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.dll
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Graphics.Canvas.winmd
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\VideoEffectExtensions.dll
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\VideoEffects.winmd
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\WindowsPreview.Media.Ocr.winmd
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.winmd
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Graphics.Canvas.dll
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Graphics.Canvas.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\VideoEffectExtensions.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\WindowsPreview.Media.Ocr.dll
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\WindowsPreview.Media.Ocr.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.pdb
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.pri
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.dll
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\VideoEffects.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\App.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\App.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\App.xaml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.xaml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.xaml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.xaml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.xaml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.xaml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\App.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.xaml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.exe
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.pdb
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.csproj.GenerateResource.Cache
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\priconfig.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\layout.resfiles
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\layout.resfiles.intermediate
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\resources.resfiles
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\pri.resfiles
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\qualifiers.txt
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\ZXing.pri.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.csprojResolveAssemblyReference.cache
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\bif.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\help1.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Newtonsoft.Json.dll
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Newtonsoft.Json.xml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bif.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bif.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\help1.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\help1.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bif.xaml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\help1.xaml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bif.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\help1.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\OcrResources\about.g.i.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\OcrResources\about.g.cs
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\OcrResources\about.xaml
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\OcrResources\about.xbf
+C:\Users\Hrishi\Desktop\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\OcrResources\about.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\OcrResources\MsOcrRes.orp
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\App.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\OcrResources\about.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\bcs.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\bif.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\cr.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\feedback.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\help1.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\imgc.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\MainPage.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\nots.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.xr.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.exe
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.pdb
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\resources.pri
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\AppxManifest.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator.build.appxrecipe
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.Managed.dll
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.winmd
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.winmd
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.dll
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Graphics.Canvas.winmd
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Newtonsoft.Json.dll
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\VideoEffectExtensions.dll
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\VideoEffects.winmd
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\WindowsPreview.Media.Ocr.winmd
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.winmd
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Graphics.Canvas.dll
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Graphics.Canvas.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Newtonsoft.Json.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\VideoEffectExtensions.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\WindowsPreview.Media.Ocr.dll
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\WindowsPreview.Media.Ocr.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.pdb
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\ZXing.pri
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.Managed.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.dll
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.Imaging.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.dll
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lumia.InteropServices.WindowsRuntime.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\VideoEffects.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Microsoft.Graphics.Canvas.Numerics.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\App.g.i.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\App.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\OcrResources\about.g.i.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\OcrResources\about.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.g.i.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bif.g.i.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bif.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.g.i.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.g.i.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\help1.g.i.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\help1.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.g.i.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.g.i.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.g.i.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\XamlTypeInfo.g.cs
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\App.xaml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\OcrResources\about.xaml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.xaml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bif.xaml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.xaml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.xaml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\help1.xaml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.xaml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.xaml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.xaml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\App.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\OcrResources\about.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bcs.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\bif.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\cr.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\feedback.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\help1.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\imgc.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\MainPage.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\nots.xbf
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\XamlSaveStateFile.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.exe
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.pdb
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.csproj.GenerateResource.Cache
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\priconfig.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\priconfig.xml.intermediate
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\layout.resfiles
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\layout.resfiles.intermediate
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\resources.resfiles
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\resources.resfiles.intermediate
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\pri.resfiles
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\pri.resfiles.intermediate
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\qualifiers.txt
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\qualifiers.txt.intermediate
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\ZXing.pri.xml
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\ProjectArchitectures.txt
+D:\Final\Projects\New folder\Final\Lensinator\Lensinator\obj\ARM\Debug\Lensinator.csprojResolveAssemblyReference.cache
