@@ -1,0 +1,4 @@
+MainPackage=D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator_1.2.0.0_ARM_Debug.appx
+SymbolPackage=D:\Final\Projects\New folder\Final\Lensinator\Lensinator\AppPackages\Lensinator_1.2.0.0_Debug_Test\Lensinator_1.2.0.0_ARM_Debug.appxsym
+ResourcePack=D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator_1.2.0.0_scale-100.appx
+ResourcePack=D:\Final\Projects\New folder\Final\Lensinator\Lensinator\bin\ARM\Debug\Lensinator_1.2.0.0_scale-140.appx
